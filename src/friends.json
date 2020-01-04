@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Saints",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-saints-logo-transparent.png"
+    
+  },
+  {
+    "id": 2,
+    "name": "Patriots",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/new-england-patriots-logo-transparent.png"
+    
+  },
+  {
+    "id": 3,
+    "name": "Bears",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/chicago-bears-logo-transparent.png"
+    
+  },
+  {
+    "id": 4,
+    "name": "Steelers",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/pittsburgh-steelers-logo-transparent.png"
+  },
+  {
+    "id": 5,
+    "name": "Vikings",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png"
+  },
+  {
+    "id": 6,
+    "name": "Raiders",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png"
+  },
+  {
+    "id": 7,
+    "name": "Jaguars",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/jacksonville-jaguars-logo-transparent.png"
+  },
+  {
+    "id": 8,
+    "name": "Packers",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/green-bay-packers-logo-transparent.png"
+  },
+  {
+    "id": 9,
+    "name": "Seahawks",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png"
+  },
+  {
+    "id": 10,
+    "name": "Titans",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/tennessee-titans-logo-transparent.png"
+  },
+  {
+    "id": 11,
+    "name": "Bengals",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/cincinnati-bengals-logo-transparent.png"
+  },
+  {
+    "id": 12,
+    "name": "Panthers",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/carolina-panthers-logo-transparent.png"
+  }
+]
