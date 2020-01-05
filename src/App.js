@@ -27,6 +27,7 @@ class App extends Component {
  }
 
  clickCount = id => {
+   // eslint-disable-next-line array-callback-return
    this.state.friends.find((f, i) => {
      if (f.id === id) {
        if (friends[i].count === 0) {
