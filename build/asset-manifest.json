@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NFLClicky/static/css/main.ae97c07d.chunk.css",
-    "main.js": "/NFLClicky/static/js/main.af538924.chunk.js",
-    "main.js.map": "/NFLClicky/static/js/main.af538924.chunk.js.map",
+    "main.js": "/NFLClicky/static/js/main.e31ae290.chunk.js",
+    "main.js.map": "/NFLClicky/static/js/main.e31ae290.chunk.js.map",
     "runtime-main.js": "/NFLClicky/static/js/runtime-main.d3481ba6.js",
     "runtime-main.js.map": "/NFLClicky/static/js/runtime-main.d3481ba6.js.map",
     "static/js/2.b79bc36e.chunk.js": "/NFLClicky/static/js/2.b79bc36e.chunk.js",
     "static/js/2.b79bc36e.chunk.js.map": "/NFLClicky/static/js/2.b79bc36e.chunk.js.map",
     "index.html": "/NFLClicky/index.html",
-    "precache-manifest.aaa31fd4cc689d46f80f13b7ab67b674.js": "/NFLClicky/precache-manifest.aaa31fd4cc689d46f80f13b7ab67b674.js",
+    "precache-manifest.b790049c2b8370ad1a8323deeeb276e7.js": "/NFLClicky/precache-manifest.b790049c2b8370ad1a8323deeeb276e7.js",
     "service-worker.js": "/NFLClicky/service-worker.js",
     "static/css/main.ae97c07d.chunk.css.map": "/NFLClicky/static/css/main.ae97c07d.chunk.css.map",
     "static/js/2.b79bc36e.chunk.js.LICENSE": "/NFLClicky/static/js/2.b79bc36e.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3481ba6.js",
     "static/js/2.b79bc36e.chunk.js",
     "static/css/main.ae97c07d.chunk.css",
-    "static/js/main.af538924.chunk.js"
+    "static/js/main.e31ae290.chunk.js"
   ]
 }
