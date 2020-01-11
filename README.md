@@ -12,3 +12,6 @@ https://jebright2.github.io/NFLClicky/
 ### Technologies Used
 
 * React JS
+* JavaScript
+* HTML
+* CSS
