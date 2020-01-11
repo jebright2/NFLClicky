@@ -1,7 +1,7 @@
 # NFLClickyGame
 
 ### URL
-https://jebright2.github.io/ClickyGame/
+https://jebright2.github.io/NFLClicky/
 
 ![App Screenshot](/images/screenshot.PNG)
 
